@@ -17,3 +17,7 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# 工具链工作区 / 过程账本（不含代码）
+.claude/worktrees/
+.superpowers/
